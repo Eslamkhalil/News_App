@@ -1,5 +1,4 @@
 # News App - Project Specification
-
 ![Screenshot_2019-08-31-16-40-52](https://user-images.githubusercontent.com/21079553/64076969-c827f500-cccb-11e9-8904-a90f70fd63c2.png)
 ![Screenshot_2019-08-31-16-41-02](https://user-images.githubusercontent.com/21079553/64076970-c827f500-cccb-11e9-8dd8-3f18b646690a.png)
 ![Screenshot_2019-09-01-14-55-14](https://user-images.githubusercontent.com/21079553/64076971-c827f500-cccb-11e9-8bde-af16505fd202.png)

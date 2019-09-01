@@ -7,6 +7,7 @@
 ![Screenshot_2019-09-01-15-03-53](https://user-images.githubusercontent.com/21079553/64076974-ca8a4f00-cccb-11e9-9ebb-d580e14a99f6.png)
 
 
+
 # Layout
 Main Screen
 App contains a main screen which displays multiple news stories

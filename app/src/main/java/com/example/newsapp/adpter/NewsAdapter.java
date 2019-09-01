@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
+import android.view.View.OnClickListener;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.newsapp.R;
 import com.squareup.picasso.Picasso;
 import java.util.List;
-
+import android.content.Intent;
 
 public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.View_holder> {
 
@@ -48,7 +48,13 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.View_holder> {
       Picasso.with(context).load(news_id.getmThumbUrl()).into(holder.thumbnailImageView);
     }
 
+ holder.titleNewsTextView.setOnClickListener(new OnClickListener() {
+      @Override
+      public void onClick(View view) {
 
+        context.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(news_id.getmNewsUrl())));
+      }
+    });
 
 
   }

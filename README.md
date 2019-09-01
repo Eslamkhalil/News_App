@@ -1,5 +1,6 @@
 # News App - Project Specification
-img src="https://user-images.githubusercontent.com/21079553/64076969-c827f500-cccb-11e9-8904-a90f70fd63c2.png" width=50>
+<img src="https://user-images.githubusercontent.com/21079553/64076969-c827f500-cccb-11e9-8904-a90f70fd63c2.pngg" width="300" />
+
 
 # Layout
 Main Screen

@@ -1,4 +1,9 @@
 # News App - Project Specification
+https://user-images.githubusercontent.com/21079553/64076973-c9f1b880-cccb-11e9-8dad-f87c6686f34d.png
+https://user-images.githubusercontent.com/21079553/64076969-c827f500-cccb-11e9-8904-a90f70fd63c2.png
+https://user-images.githubusercontent.com/21079553/64076971-c827f500-cccb-11e9-8bde-af16505fd202.png
+https://user-images.githubusercontent.com/21079553/64076972-c8c08b80-cccb-11e9-8f37-3b1099a3d0cf.png
+https://user-images.githubusercontent.com/21079553/64076974-ca8a4f00-cccb-11e9-9ebb-d580e14a99f6.png
 
 # Layout
 Main Screen
